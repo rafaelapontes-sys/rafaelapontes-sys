@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Rafaela Gonçalves Pontes.
 
-🎓 Estudante da Aprendizagem Industrial em Programador de Sistema da Informação.  
-🏫 E.E.B Cecília Vívan.
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistema da Informação. (SENAI) Contratado pela empresa Seára Alimentos.
+🎓 Estdante do 3º ano
+🏫 Escola Educação Básica Cecília Vívan.
 💻 Interessado em tecnologia, programação e inovação. 
 
 ---
