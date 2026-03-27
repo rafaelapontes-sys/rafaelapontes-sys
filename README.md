@@ -36,7 +36,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [site]   https://rafaelapontes-sys.github.io/site02/
+📌 Projeto 1 – https://rafaelapontes-sys.github.io/site02/
 📌 Projeto 2 – [Nome do Projeto]  
 📌 Projeto 3 – [Nome do Projeto]  
 
