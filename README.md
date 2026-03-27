@@ -2,7 +2,6 @@
 
 🎓 Estudante da Aprendizagem Industrial em Programador de Sistema da Informação.  
 🏫 E.E.B Cecília Vívan.
-
 💻 Interessado em tecnologia, programação e inovação. 
 
 ---
