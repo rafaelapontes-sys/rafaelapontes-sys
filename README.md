@@ -2,9 +2,7 @@
 
 🎓 Estudante da Aprendizagem Industrial em Programador de Sistema da Informação. (SENAI) Contratado pela empresa Seára Alimentos.
 
-🎓 Estdante do 3º ano
-
-🏫 Escola Educação Básica Cecília Vívan.
+🎓 Estudante do 3º ano 🏫 Escola Educação Básica Cecília Vívan.
 
 💻 Interessado em tecnologia, programação e inovação. 
 
